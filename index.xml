@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://felix-hjx.githun.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Apr 2020 13:52:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://felix-hjx.githun.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://felix-hjx.githun.io/post/blog/</link>
+      <pubDate>Wed, 29 Apr 2020 13:52:27 +0800</pubDate>
+      
+      <guid>https://felix-hjx.githun.io/post/blog/</guid>
+      <description>Blog创建 基于Hugo创建个人博客
+Hugo安装 GitHub网站安装对应系统版本
+Hugo主题下载 https://themes.gohugo.io/网站下载主题
+ ==在本地启动个人博客==
+博客根目录下启动
+hugo server -t 主题名称 --buildDrafts  创建文章
+hugo new post/blog.md </description>
+    </item>
+    
+  </channel>
+</rss>
